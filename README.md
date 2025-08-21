@@ -1,5 +1,5 @@
 # 💫 About Me:
-Deeply passionate about computer architecture, compiler design, and processor functionality, with a strong drive to explore the fundamental principles behind robust and efficient technologies. Emphasizing mastery of Data Structures and Algorithms (DSA), complex problems are approached with clarity and precision, ensuring innovative and effective solutions.
+Computer Science undergraduate with experience in Java, Spring Boot, SQL, and backend development, skilled in building scalable applications such as a real-time chat system and an academic management platform. Strong background in data structures, algorithms, and competitive programming with 700+ problems solved across Codeforces, LeetCode, and CodeChef, achieving global ranks in ICPC and Codeforces contests.
 
 
 ## 🌐 Socials:
